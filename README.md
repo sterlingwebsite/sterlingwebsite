@@ -71,7 +71,7 @@ Included are:
 
 - [SmartTracker](https://github.com/sterlingwebsite/SmartTracker)
 - [FlashcardStudyApp](https://github.com/sterlingwebsite/FlashcardStudyApp)
-- [Temple Journal]([https:](https://github.com/sterlingwebsite/team6project)
+- [Temple Journal](https://github.com/sterlingwebsite/team6project)
 
 ## Certifications
 
