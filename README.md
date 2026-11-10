@@ -67,6 +67,12 @@ As I continue my Software Development degree, I'll be adding coursework and pers
 - Automation and scripting
 - Problem-solving through technology
 
+Included are:
+
+- [SmartTracker](https://github.com/sterlingwebsite/SmartTracker)
+- [FlashcardStudyApp](https://github.com/sterlingwebsite/FlashcardStudyApp)
+- [Temple Journal]([https:](https://github.com/sterlingwebsite/team6project)
+
 ## Certifications
 
 - PowerShell 7 Essential Training
